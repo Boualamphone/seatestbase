@@ -1,0 +1,23 @@
+// ***** BREADCRUMB SECTION ***** //
+
+.wrap-breadcrumb {
+  background-color: lighten($color__background_base_dark, 20%);
+  color: $color__text-white;
+  margin-bottom: 30px;
+  padding-bottom: 20px;
+  padding-top: 20px;
+  @include font-size(0.813);
+  a{
+    color: $color__text-white;
+    &:hover{
+      color: darken($color__text-white, 25%);
+    }
+  }
+  span{
+    margin-left: 5px;
+    margin-right: 5px;
+    &:first-child{
+      margin-left: 0;
+    }
+  }
+}
