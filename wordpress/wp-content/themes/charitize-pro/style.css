@@ -4049,7 +4049,7 @@ dt {
 }
 
 .col-xs-9 {
-  width: 75%;
+  width: 100%;
 }
 
 .col-xs-8 {
@@ -6704,7 +6704,7 @@ body.evision-no-sidebar #secondary {
 }
 
 .site-header .go-left {
-  right: 25%;
+  right: 0%;
 }
 
 #fixedhead {
