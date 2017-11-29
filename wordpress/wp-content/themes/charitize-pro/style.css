@@ -7830,9 +7830,9 @@ body.evision-no-sidebar #secondary {
   width: 100%;
 }
 
-.thumb-overlay.main-slider-overlay {
+/*.thumb-overlay.main-slider-overlay {
   background: rgba(30, 65, 78, 0.65);
-}
+}*/
 
 img.desaturate {
   -webkit-filter: grayscale(100%);
